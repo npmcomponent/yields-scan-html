@@ -1,0 +1,9 @@
+{
+  "name": "yields-scan-html",
+  "description": "a tiny html lexer.",
+  "version": "0.1.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
